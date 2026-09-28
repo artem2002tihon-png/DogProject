@@ -2,8 +2,6 @@ import UIKit
 
 //MARK: - Variables
 
-
-
 //MARK: -
 class ImagesListViewController: UIViewController {
     @IBOutlet weak var tableView: UITableView!
